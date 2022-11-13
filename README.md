@@ -52,7 +52,7 @@ Please follow the steps outlined below for how to use the command-line applicati
 
 ---
 
-Please watch this [video tutorial]() for a demonstration of how to use the E-Commerce Backend application step by step. You will also be able to see GET, POST, PUT, and DELETE requests for all of the routes created for tags, categories, and products. 
+Please watch this [video tutorial](https://drive.google.com/file/d/1nPDG-bbBFPpuEbeGavvNOsv0O3SmRPYd/view?usp=sharing) for a demonstration of how to use the E-Commerce Backend application step by step. You will also be able to see GET, POST, PUT, and DELETE requests for all of the routes created for tags, categories, and products. 
 
 
 ## Contributing 
