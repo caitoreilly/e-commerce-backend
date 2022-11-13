@@ -4,7 +4,7 @@
 
 ---
 
-E-Commerce Backend is a product that uses an Express.js API and uses Sequelize to interact with a MySQL database. This project entails seeding information from a database, running the application's server, and performing a variety of GET, POST, PUT, and DELETE requests for the tag, category, and product routes in Insomnia. For further information about this application and how to use it, please visit my GitHub repository [here]().
+E-Commerce Backend is a product that uses an Express.js API and uses Sequelize to interact with a MySQL database. This project entails seeding information from a database, running the application's server, and performing a variety of GET, POST, PUT, and DELETE requests for the tag, category, and product routes in Insomnia. For further information about this application and how to use it, please visit my GitHub repository [here](https://github.com/caitoreilly/e-commerce-backend.git).
 
 ## Table of Contents 
 
